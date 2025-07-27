@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DPG746/CODING/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DPG746/CODING/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DPG746/CODING/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/DPG746/CODING/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/DPG746/CODING/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/DPG746/CODING/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DPG746/CODING/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DPG746/CODING/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DPG746/CODING/tree/master/0392-is-subsequence) |
+| [0481-magical-string](https://github.com/DPG746/CODING/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/DPG746/CODING/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/DPG746/CODING/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
