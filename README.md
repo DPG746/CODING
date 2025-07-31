@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/DPG746/CODING/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
