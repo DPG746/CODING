@@ -1,13 +1,4 @@
 class Solution:
     def removePalindromeSub(self, s: str) -> int:
-        s=list(s)
-        l=0
-        r=len(s)-1
-
-        while l<r:
-            if s[l]==s[r]:
-                l+=1
-                r-=1
-            else:
-                return 2
-        return 1
+        return 1 if s == s[::-1] else 2
+ # Internally: loop from index 3 → 0, build "abba"
