@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/DPG746/CODING/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
+| [1454-remove-palindromic-subsequences](https://github.com/DPG746/CODING/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/DPG746/CODING/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/DPG746/CODING/tree/master/0961-long-pressed-name) |
+| [1454-remove-palindromic-subsequences](https://github.com/DPG746/CODING/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/DPG746/CODING/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
