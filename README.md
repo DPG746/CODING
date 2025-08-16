@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/DPG746/CODING/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DPG746/CODING/tree/master/2698-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/DPG746/CODING/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/DPG746/CODING/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DPG746/CODING/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
