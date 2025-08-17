@@ -14,3 +14,4 @@ class Solution:
                     break   # No need to check further if condition is satisfied
 
         return result
+
