@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/DPG746/CODING/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/DPG746/CODING/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/DPG746/CODING/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/DPG746/CODING/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/DPG746/CODING/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/DPG746/CODING/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2698-find-the-array-concatenation-value](https://github.com/DPG746/CODING/tree/master/2698-find-the-array-concatenation-value) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
