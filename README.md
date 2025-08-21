@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/CODING/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DPG746/CODING/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0827-expressive-words](https://github.com/DPG746/CODING/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/DPG746/CODING/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/DPG746/CODING/tree/master/0696-count-binary-substrings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/DPG746/CODING/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0827-expressive-words](https://github.com/DPG746/CODING/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/DPG746/CODING/tree/master/0696-count-binary-substrings) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/DPG746/CODING/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0827-expressive-words](https://github.com/DPG746/CODING/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/DPG746/CODING/tree/master/0961-long-pressed-name) |
