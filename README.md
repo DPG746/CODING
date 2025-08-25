@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DPG746/CODING/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DPG746/CODING/tree/master/2698-find-the-array-concatenation-value) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Database
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/DPG746/CODING/tree/master/0633-sum-of-square-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
