@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DPG746/CODING/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DPG746/CODING/tree/master/2698-find-the-array-concatenation-value) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/DPG746/CODING/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DPG746/CODING/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/DPG746/CODING/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
