@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
+| [1138-grumpy-bookstore-owner](https://github.com/DPG746/CODING/tree/master/1138-grumpy-bookstore-owner) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/DPG746/CODING/tree/master/1138-grumpy-bookstore-owner) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DPG746/CODING/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
