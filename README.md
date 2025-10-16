@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/DPG746/CODING/tree/master/1138-grumpy-bookstore-owner) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DPG746/CODING/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Database
@@ -120,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/DPG746/CODING/tree/master/0633-sum-of-square-numbers) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DPG746/CODING/tree/master/0643-maximum-average-subarray-i) |
+| [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/DPG746/CODING/tree/master/1138-grumpy-bookstore-owner) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DPG746/CODING/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
