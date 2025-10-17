@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/DPG746/CODING/tree/master/0961-long-pressed-name) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/DPG746/CODING/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/DPG746/CODING/tree/master/1454-remove-palindromic-subsequences) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/DPG746/CODING/tree/master/1739-split-two-strings-to-make-palindrome) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DPG746/CODING/tree/master/0643-maximum-average-subarray-i) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/DPG746/CODING/tree/master/1138-grumpy-bookstore-owner) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/DPG746/CODING/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DPG746/CODING/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/DPG746/CODING/tree/master/1755-defuse-the-bomb) |
