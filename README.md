@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/DPG746/CODING/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DPG746/CODING/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/CODING/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DPG746/CODING/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/DPG746/CODING/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/DPG746/CODING/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
