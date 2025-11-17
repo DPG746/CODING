@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/DPG746/CODING/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DPG746/CODING/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/DPG746/CODING/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
@@ -145,4 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
+| [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
