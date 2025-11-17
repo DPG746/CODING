@@ -5,7 +5,6 @@ class Solution:
             num=nums[i]
             complement=target-num
             if complement in dic:
-                return[i,dic[complement]]
+                return [i,dic[complement]]
+            
             dic[num]=i
-
-        return [-1,-1]
