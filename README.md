@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DPG746/CODING/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DPG746/CODING/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/CODING/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DPG746/CODING/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0643-maximum-average-subarray-i](https://github.com/DPG746/CODING/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DPG746/CODING/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/DPG746/CODING/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DPG746/CODING/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0941-sort-array-by-parity](https://github.com/DPG746/CODING/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/DPG746/CODING/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/DPG746/CODING/tree/master/0633-sum-of-square-numbers) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
@@ -147,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
