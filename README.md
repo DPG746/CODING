@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DPG746/CODING/tree/master/1019-squares-of-a-sorted-array) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/DPG746/CODING/tree/master/1138-grumpy-bookstore-owner) |
+| [1426-counting-elements](https://github.com/DPG746/CODING/tree/master/1426-counting-elements) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DPG746/CODING/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/DPG746/CODING/tree/master/1755-defuse-the-bomb) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
+| [1426-counting-elements](https://github.com/DPG746/CODING/tree/master/1426-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
