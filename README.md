@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DPG746/CODING/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DPG746/CODING/tree/master/0643-maximum-average-subarray-i) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/DPG746/CODING/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/DPG746/CODING/tree/master/0827-expressive-words) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [1426-counting-elements](https://github.com/DPG746/CODING/tree/master/1426-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
