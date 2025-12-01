@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/DPG746/CODING/tree/master/1755-defuse-the-bomb) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/DPG746/CODING/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DPG746/CODING/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1113-moving-stones-until-consecutive-ii](https://github.com/DPG746/CODING/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/DPG746/CODING/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 ## Database
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [1426-counting-elements](https://github.com/DPG746/CODING/tree/master/1426-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
 ## Prefix Sum
