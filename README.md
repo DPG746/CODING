@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/DPG746/CODING/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/DPG746/CODING/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/DPG746/CODING/tree/master/0961-long-pressed-name) |
+| [1189-maximum-number-of-balloons](https://github.com/DPG746/CODING/tree/master/1189-maximum-number-of-balloons) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/DPG746/CODING/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/DPG746/CODING/tree/master/1454-remove-palindromic-subsequences) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [1133-largest-unique-number](https://github.com/DPG746/CODING/tree/master/1133-largest-unique-number) |
+| [1189-maximum-number-of-balloons](https://github.com/DPG746/CODING/tree/master/1189-maximum-number-of-balloons) |
 | [1426-counting-elements](https://github.com/DPG746/CODING/tree/master/1426-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/DPG746/CODING/tree/master/1189-maximum-number-of-balloons) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
