@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DPG746/CODING/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/DPG746/CODING/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/DPG746/CODING/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DPG746/CODING/tree/master/0643-maximum-average-subarray-i) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/DPG746/CODING/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DPG746/CODING/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/DPG746/CODING/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/DPG746/CODING/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 | [1133-largest-unique-number](https://github.com/DPG746/CODING/tree/master/1133-largest-unique-number) |
 | [1189-maximum-number-of-balloons](https://github.com/DPG746/CODING/tree/master/1189-maximum-number-of-balloons) |
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/DPG746/CODING/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DPG746/CODING/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
