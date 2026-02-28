@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/DPG746/CODING/tree/master/1454-remove-palindromic-subsequences) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/DPG746/CODING/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/CODING/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/DPG746/CODING/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/DPG746/CODING/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DPG746/CODING/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DPG746/CODING/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/DPG746/CODING/tree/master/1755-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/CODING/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DPG746/CODING/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/DPG746/CODING/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DPG746/CODING/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1133-largest-unique-number](https://github.com/DPG746/CODING/tree/master/1133-largest-unique-number) |
 | [1189-maximum-number-of-balloons](https://github.com/DPG746/CODING/tree/master/1189-maximum-number-of-balloons) |
 | [1426-counting-elements](https://github.com/DPG746/CODING/tree/master/1426-counting-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/CODING/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/DPG746/CODING/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/DPG746/CODING/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DPG746/CODING/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/DPG746/CODING/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/DPG746/CODING/tree/master/2248-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/DPG746/CODING/tree/master/2427-first-letter-to-appear-twice) |
